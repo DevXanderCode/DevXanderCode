@@ -11,9 +11,12 @@
   <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
  </a>
 </div>
+<p> 
+<img src="https://komarev.com/ghpvc/?username=devxandercode&label=Profile%20views&color=0e75b6&style=flat" alt="valentinefernandes" /> 
+</p>
 
 <img align="right" alt="Coding" width="400" src="https://qph.fs.quoracdn.net/main-qimg-fa7b4bdc3b2f73e749e5c2c646d4ae13"> 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=devxandercode&label=Profile%20views&color=0e75b6&style=flat" alt="valentinefernandes" /> </p>
+
 
 
 
@@ -63,9 +66,14 @@ Here are some ideas to get you started:
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=DevXanderCode&show_icons=true&locale=en" alt="DevXanderCode" /></p>
 
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=DevXanderCode" alt="DevXanderCode" /></p>
-<p><img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DevXanderCode&theme=github" /></p>
-<p><img align="center" src="https://github-stats-alpha.vercel.app/api?username=DevXanderCode&bc=ebebeb&ic=0E8AD9" alt="DevXanderCode" /></p>
+<p>
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=DevXanderCode" alt="DevXanderCode" /></p>
+<p>
+<img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DevXanderCode&theme=github" />
+</p>
+<p>
+<img align="center" src="https://github-stats-alpha.vercel.app/api?username=DevXanderCode&bc=ebebeb&ic=0E8AD9" alt="DevXanderCode" />
+</p>
   
 
 
