@@ -1,7 +1,7 @@
 ![MasterHead](https://previews.123rf.com/images/artinspiring/artinspiring1909/artinspiring190901325/130769932-concetto-di-banner-web-di-sviluppo-frontend-interfaccia-del-sito-web.jpg)
 
 <h1 align="center">Hi 👋, I'm Alex Chinedu Nweke</h1>      
-<h3 align="center">A passionate fullstack developer with proficiency in frontend</h3>
+<h3 align="center">A passionate fullstack developer with proficiency in frontend development</h3>
 <div id="badges" align='center'>
    <a target='_blank' rel="noreferrer" href="https://www.linkedin.com/in/chinedu-alex-nweke">
      <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
