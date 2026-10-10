@@ -1,95 +1,72 @@
-![MasterHead](https://previews.123rf.com/images/artinspiring/artinspiring1909/artinspiring190901325/130769932-concetto-di-banner-web-di-sviluppo-frontend-interfaccia-del-sito-web.jpg)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/DevXanderCode/images/07d9ccdf3c6cbfe2f024c9f5de3cf74d0f1c530d/banner-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/DevXanderCode/images/07d9ccdf3c6cbfe2f024c9f5de3cf74d0f1c530d/banner-light.svg">
+  <img alt="DevXanderCode — product engineering and intelligent systems" src="https://raw.githubusercontent.com/DevXanderCode/images/07d9ccdf3c6cbfe2f024c9f5de3cf74d0f1c530d/banner-light.svg" width="100%">
+</picture>
 
-<h1 align="center">Hi 👋, I'm Alex Chinedu Nweke</h1>      
-<h3 align="center">CTO and Full-stack / Cloud engineer building production-grade AgriTech, PropTech and SaaS systems across React, React Native, Node.js, PostgreSQL, GCP, Docker and Kubernetes. Currently deepening distributed systems, reliability engineering and open-source infrastructure tooling.</h3>
-<div id="badges" align='center'>
-   <a target='_blank' rel="noreferrer" href="https://www.linkedin.com/in/chinedu-alex-nweke">
-     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
- </a> 
-  <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
- <a target='_blank' rel="noreferrer" href='https://twitter.com/XanderDev2'>
-  <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
- </a>
-</div>
-<p align='center'> 
-<img src="https://komarev.com/ghpvc/?username=devxandercode&label=Profile%20views&color=0e75b6&style=flat" alt="DevXanderCode" /> 
-</p>
+# Alex Chinedu Nweke
 
-<img align="right" alt="Coding" width="400" src="https://qph.fs.quoracdn.net/main-qimg-fa7b4bdc3b2f73e749e5c2c646d4ae13"> 
+**CTO · Full-stack, Mobile & Cloud Engineer · AI Engineering · System Design**
 
+I build web and mobile products across **AgriTech, PropTech, and SaaS**, connecting product decisions with application architecture and cloud infrastructure. My work spans React, React Native, Node.js, PostgreSQL, and Google Cloud, with shipped AI features in Bookmaker and a growing focus on distributed systems and reliability engineering.
 
+[LinkedIn](https://www.linkedin.com/in/chinedu-alex-nweke/) · [Portfolio](https://alex-portfolio-nu.vercel.app/) · [X](https://twitter.com/XanderDev2) · [Explore my repositories](https://github.com/DevXanderCode?tab=repositories)
 
+## Engineering focus
 
-<!--
-**DevXanderCode/DevXanderCode** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- **Product engineering:** web and mobile experiences, backend services, API integrations, and maintainable code.
+- **Mobile development:** cross-platform applications with React Native, alongside basic familiarity with Flutter.
+- **System design:** service boundaries, multi-tenant architecture, data modeling, access control, and trade-offs between consistency, availability, latency, and cost.
+- **Cloud & reliability:** containerized deployments, health monitoring, observability, and designing for failure and recovery.
+- **Technical leadership:** translating business needs into practical architecture and guiding products from idea to production.
 
-Here are some ideas to get you started:
--->
-- 🔭 I’m currently working on **BridgeMerchant web and mobile app, **
-- 🌱 I’m currently learning **Nextjs, SQL, Flutter and DevOps**
-- 👯 I’m looking to collaborate on **high impact startups, fintech and open source**
-<!-- - 🤔 I’m looking for help with ... -->
-- 💬 Ask me about **JavaScript, React, TypeScript, Nodejs, HTML, CSS, Bootstrap, TailwindCss**
-<!-- - 📫 How to reach me: ... -->
-<!-- - 😄 Pronouns: ... -->
- - ⚡ Fun fact: **i watch anime and loves travelling** 
+## AI engineering in production
 
+I shipped AI features in **[Bookmaker](https://bookmaker.celartech.com/)**, bringing conversational assistance and document drafting into business workflows.
 
-<h3 align="left">Languages and Tools:</h3>  
-<p align="left">
-  <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> 
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> 
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> 
-  <a href="https://www.wordpress.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/wordpress/wordpress-original.svg" alt="wordpress" width="40" height="40"/> </a> 
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> 
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> 
-  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="mongodb" width="40" height="40"/> </a> 
-  <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> 
-  <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
-  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> 
-  <a href="https://nodejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="nodejs" width="40" height="40"/> </a> 
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> 
-    <a href="https://dart.dev" target="_blank" rel="noreferrer">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" alt="dart" width="40" height="40"/> 
-    </a>
-     <a href="https://flutter.dev" target="_blank" rel="noreferrer">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" alt="flutter" width="40" height="40"/> 
-    </a>
-  <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> 
- <!-- <a href="https://spring.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" alt="sass" width="40" height="40"/> </a>  -->
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
-  <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> <img alt="SQL" width="40" height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" /> 
-  <img width="40" height="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/1024px-Visual_Studio_Code_1.35_icon.svg.png">
-  <img width="40" height="40" src="https://upload.wikimedia.org/wikipedia/en/d/d2/Sublime_Text_3_logo.png">
-  <img width="40" height="40"  src="https://github.com/ValentineFernandes/ValentineFernandes/blob/main/Portfolio/atom.png">
-  <img alt="notepadplusplus" height="40" width="40" src="https://github.com/ValentineFernandes/ValentineFernandes/blob/main/Portfolio/notepadplusplus.png" />
-  <img alt="github" height="40" width="40" src="https://github.com/ValentineFernandes/ValentineFernandes/blob/main/Portfolio/github.png" />
-    <a href="https://www.linux.org" target="_blank" rel="noreferrer">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="react" width="40" height="40"/> 
-    </a>
-</p>    
+- **Conversational help** grounded in user guides, with source links and streamed responses.
+- **Opt-in record lookup** for invoices, customers, and products within the selected workspace.
+- **Natural-language document drafting**, with review and editing before issuing or sending.
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=DevXanderCode&langs_count=20&show_icons=true&locale=en&layout=compact" alt="DevXanderCode" /></p>
+The implementation uses **Next.js, TypeScript, OpenRouter, PostgreSQL, and Zod**, with structured output validation, permission checks, and bounded requests.
 
+[Explore Bookmaker’s assistant](https://bookmaker.celartech.com/docs/guides/use-the-assistant)
 
+My AI engineering skills include **Python, LLM API integration, prompt engineering, Hugging Face, embeddings, vector search, LangChain, and LLMOps fundamentals**.
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=DevXanderCode&show_icons=true&locale=en" alt="DevXanderCode" /></p>
+## Core stack
 
+| Area | Technologies |
+| :--- | :--- |
+| Languages | TypeScript, JavaScript, Python, SQL |
+| Web | React, Next.js, Tailwind CSS |
+| Mobile | React Native; Flutter (basic familiarity) |
+| Backend & data | Node.js, PostgreSQL, Drizzle ORM, MongoDB |
+| AI integration | OpenRouter, Zod, structured outputs, response streaming |
+| Cloud & delivery | Google Cloud, Docker, Kubernetes, Git, Linux |
 
-<p>
-   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=DevXanderCode" alt="DevXanderCode" /></p>
-<p>
+## Selected open source
 
+| Project | What it does |
+| :--- | :--- |
+| **[Docker Health Dashboard](https://github.com/DevXanderCode/docker-health-dashboard)** | A terminal dashboard for Docker container health, resource usage, and host metrics. |
+| **[Homebrew tap for dhealth](https://github.com/DevXanderCode/homebrew-dhealth)** | A Homebrew distribution channel for installing the Docker health dashboard. |
+| **[Web Crawler CLI](https://github.com/DevXanderCode/webcrawlerhttp)** | Crawls a website and reports how its pages link together. |
+| **[Calculation Engine](https://github.com/DevXanderCode/calc-engine)** | Implements the Shunting-yard algorithm to handle operator precedence. |
 
-<img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DevXanderCode&theme=github" />
-</p>
-<p>
-<img align="center" src="https://github-stats-alpha.vercel.app/api?username=DevXanderCode&bc=ebebeb&ic=0E8AD9" alt="DevXanderCode" />
-</p>
-<!-- -->
-  
+## How I approach engineering
 
+- **Start with the problem.** Define user needs, constraints, and success criteria before choosing tools.
+- **Keep architecture understandable.** Use clear boundaries and add complexity when requirements justify it.
+- **Make reliability visible.** Treat testing, observability, security, and recovery as part of the product.
+- **Make trade-offs explicit.** Balance delivery speed, operational cost, performance, and maintainability.
 
+## Currently
 
+Building **BridgeMerchant’s web and mobile applications**, extending my work in AI-powered products, and deepening distributed systems and reliability engineering.
 
+I’m open to collaborating on **useful AI applications, developer tooling, open-source infrastructure, and high-impact startups**.
+
+**Let’s connect:** [LinkedIn](https://www.linkedin.com/in/chinedu-alex-nweke/)
+
+<sub>Outside engineering: anime, travel, and curiosity about what comes next.</sub>
